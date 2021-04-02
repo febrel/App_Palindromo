@@ -3,7 +3,7 @@ App Básica Creada con Bootstrap y JavaScript
 * Función de Algoritmo Burbuja
 * Función de Manejar Texto
 
-## Enlace WEb
+## Enlace
 https://febrel.github.io/App_Palindromo/
 
 ## Pantalla Correcta
