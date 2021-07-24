@@ -7,10 +7,10 @@ App Básica Creada con Bootstrap y JavaScript
 https://febrel.github.io/App_Palindromo/
 
 ## Pantalla Correcta
-![image](https://user-images.githubusercontent.com/23177282/113451018-b6866200-93c6-11eb-8ba0-d083feb1ba86.png)
+![image](https://user-images.githubusercontent.com/23177282/126875003-2e689de0-0884-4293-8173-be9b125edb24.png)
 
 ## Pantalla Incorrecta
-![image](https://user-images.githubusercontent.com/23177282/113451198-1c72e980-93c7-11eb-9308-99945db0ea1d.png)
+![image](https://user-images.githubusercontent.com/23177282/126875008-64e247ac-db69-4043-b86a-bf319e28769d.png)
 
 
 
